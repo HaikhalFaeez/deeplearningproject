@@ -15,14 +15,6 @@ Original file is located at
     *   Train-Test Split
     *   Deep Learning Model -Convolutional Neural Network (CNN)
     *   DL Model Evaluation
-    *   Streamlit Web App
-    *   Dockerized
-        - Dockerfile (Create docker file containing list of instruction that need to give to build docker image from the code)
-        - Docker Image (Build docker image which act as a base image for the docker container)
-        - Docker Container (Run to get the streamlit web app)
-
-
-    *   Develop Prediction System - Feed new data to trained model to predict image of either an airplane, automobile, bird, cat, deer, dog, frog, horse, ship or truck.
 
 Seeding the reproducility
 """
